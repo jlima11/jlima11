@@ -1,8 +1,7 @@
 ### Eae Galera! Eu sou o Júlio Lima
 #
-- 🔭 Hoje estou trabalhando com engenharia da qualidade
-- 🌱 Estudando Cência de Dados
-- 🎮 Gamer
+- 🔭 Hoje estou trabalhando como Analista de Dados Salesforce
+- 🌱 Estudando AI
 
 #
 <div align="center">
